@@ -1,0 +1,79 @@
+[
+    {
+        "name" : "peas",
+        "quantity" : 0.25,
+        "Unit" : "kg",
+        "price" : "25",
+        "Category" : "vegetable"
+    },
+    {
+        "name" : "CornFlour",
+        "quantity" : 100,
+        "Unit" : "g",
+        "price" : "20",
+        "Category" : "General"
+    },
+    {
+        "name" : "beans",
+        "quantity" : 0.5,
+        "Unit" : "kg",
+        "price" : "35",
+        "Category" : "vegetable"
+    },
+    {
+        "name" : "Tomatoes",
+        "quantity" : 1,
+        "Unit" : "kg",
+        "price" : "15",
+        "Category" : "vegetable"
+    },
+    {
+        "name" : "meat",
+        "quantity" : 1,
+        "Unit" : "kg",
+        "price" : "200",
+        "Category" : "Non-Veg"
+    },
+    {
+        "name" : "Rice",
+        "quantity" : 2,
+        "Unit" : "kg",
+        "price" : "140",
+        "Category" : "Food & Grains"
+    },
+    {
+        "name" : "Wheat",
+        "quantity" : 1,
+        "Unit" : "kg",
+        "price" : "40",
+        "Category" : "Food & Grains"
+    },
+    {
+        "name" : "salt",
+        "quantity" : 1,
+        "Unit" : "kg",
+        "price" : "24",
+        "Category" : "Grocery & Staples"
+    },
+    {
+        "name" : "Milk",
+        "quantity" : 1,
+        "Unit" : "-",
+        "price" : "22",
+        "Category" : "Dairy"
+    },
+    {
+        "name" : "Dairy Milk",
+        "quantity" : 2,
+        "Unit" : "-",
+        "price" : "40",
+        "Category" : "chocolate"
+    },
+    {
+        "name" : "sugar",
+        "quantity" : 1,
+        "Unit" : "kg",
+        "price" : "150",
+        "Category" : "Grocery & Staples"
+    }
+]

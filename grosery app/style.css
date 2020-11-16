@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+.fab {
+    font-size: 400%;
+    color: #065446;
+}
+#shopList {
+    height: 30rem;
+    text-align: center;
+    
+}
+.shopNow {
+    color: #065446;
+    background-color: #fff;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 2%; 
+}
+table {
+    background-color: rgba(0,0,0,0.4);
+    margin: auto;
+}
+tr:hover {
+    background-color: #61122f;
+}
+.ad {
+    margin-top: 2rem;
+    font-family: cursive;
+    font-size: 3rem;
+}
+#myInput {
+    margin: 2rem 0;
+    padding: 0.4rem 2rem;
+    border-radius: 30%;
+}
+.happy {
+    color:  #f6b319;
+    font-size: 1.4rem;
+}
