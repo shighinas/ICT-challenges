@@ -18,7 +18,6 @@ function ajax() {
 
 
 function search() {
-    // Declare variables
     var td, txtValue;
     var input = document.getElementById("myInput");
     var filter = input.value.toUpperCase();
@@ -78,7 +77,7 @@ function proceed(){
 
 function PrintTable() {
     var printWindow = window.open('', '', 'height=400,width=700');
-    printWindow.document.write('<html><head><title>Table Contents</title></head>');
+    printWindow.document.write('<html><head><title>My Shopping List</title></head>');
     printWindow.document.write('<body>');
     var Contents = document.getElementById("table2").innerHTML;
     printWindow.document.write("<table border='1' cellpadding='5'>"+Contents+"</table>");
