@@ -47,3 +47,6 @@ tr:hover {
     color:  #f6b319;
     font-size: 1.4rem;
 }
+.btn {
+    margin: 0 0 2rem 0;
+}
