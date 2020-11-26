@@ -1,6 +1,5 @@
 document.getElementById("reg").addEventListener("click", () => {
     if(document.getElementById("userName").value == "admin" && document.getElementById("inputPassword").value == 12345) {
-        alert("true");
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function() {
         if(this.readyState == 4 && this.status == 200) {
